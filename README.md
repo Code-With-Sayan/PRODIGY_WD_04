@@ -20,7 +20,7 @@ I’ve built a clean, professional, and responsive **personal portfolio website*
 
 ## 🧑‍💻 Author
 
-**Titli Purkait**  
+**Sayan Sadhukhan**  
 B.Tech IT | Web Developer | 2027  
 [GitHub](https://github.com/Code-With-Sayan) 
 ## 🌐 Live Demo
